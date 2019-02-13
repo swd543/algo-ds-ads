@@ -2,16 +2,24 @@
 Practice for data structures and algorithms
 
 # Data structures
-- [ ] topic1
-- [ ] topic2
-- [ ] topic3
+- [ ] Array
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Binary Tree
+- [ ] BST
+- [ ] Heap
+- [ ] Graphs
 
 # Advanced Data structures
-- [ ] topic1
-- [ ] topic2
-- [ ] topic3
+- [ ] n-ary Tree
+- [ ] Trie
+- [ ] K-Dimensional Tree
 
 # Algorithms
-- [ ] topic1
-- [ ] topic2
-- [ ] topic3
+- [ ] Searching and Sorting
+- [ ] Greedy Algorithms
+- [ ] Divide and Conquer
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Randomized Algorithms
